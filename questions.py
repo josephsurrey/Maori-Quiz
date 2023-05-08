@@ -1,7 +1,7 @@
 """ Written by Joseph Surrey 05/05/2023
 """
 
-NUMBERS = [["What is the Māori word for one?", "tahi"],
+MAORI_NUMBERS = [["What is the Māori word for one?", "tahi"],
            ["What is the English word for tahi?", "one"],
            ["What is the Māori word for two?", "rua"],
            ["What is the English word for rua?", "two"],
