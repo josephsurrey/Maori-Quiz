@@ -11,7 +11,7 @@ def welcome():
     # print welcome message
     print(WELCOME_MESSAGE)
     # ask if user has played before
-    played_before = get_valid_input("Have you played Maori Quiz before?", ["YES", "Y", "NO", "N"], str, True)
+    played_before = get_valid_input("Have you played Maori Quiz before?", str, ["YES", "Y", "NO", "N"], True)
     # if user has played before run quiz selection
     if played_before == "YES" or played_before == "Y":
         quiz_selection()
