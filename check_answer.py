@@ -1,6 +1,8 @@
 """ Written by Joseph Surrey 08/05/2023
 """
 
+from update_score import update_score
+
 
 def check_answer(questions, answer, user_answer):
     # if the users answer is the same as the answer then update the score
