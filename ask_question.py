@@ -31,4 +31,4 @@ def ask_question(questions):
     # set the value of user_answer to the answer that the user chose
     user_answer = options[user_input]
     # check answer
-    check_answer(questions, answer, user_answer)
+    check_answer(questions, answer, user_answer, score)
