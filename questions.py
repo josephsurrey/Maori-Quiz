@@ -59,3 +59,4 @@ MAORI_DAYS = [["What is the Māori word for Monday?", "Rāhina"],
               ["What is the English word for Rāhoroi?", "Saturday"],
               ["What is the Māori word for Sunday?", "Rātapu"],
               ["What is the English word for Rātapu?", "Sunday"]]
+OPTIONS = MAORI_NUMBERS + MAORI_MONTHS + MAORI_DAYS

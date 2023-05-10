@@ -3,6 +3,7 @@
 import random
 from get_valid_input import get_valid_input
 from check_answer import check_answer
+from questions import *
 
 
 def ask_question(questions, score):
@@ -15,7 +16,7 @@ def ask_question(questions, score):
     # run loop to add random options until options has 4 variables inside it
     while len(options) != 4:
         # select a random answer that isn't the correct one
-        new_option = questions[random.randint(0, len(questions) - 1)][1]
+        new_option = OPTIONS[random.randint(0, len(OPTIONS) - 1)][1]
         # if this is not in the list then append it to options
         if new_option not in options:
             options.append(new_option)
