@@ -20,4 +20,4 @@ def quiz_selection():
     else:
         questions = MAORI_DAYS
     # ask first question
-    ask_question(questions)
+    ask_question(questions, 0)
