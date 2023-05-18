@@ -25,7 +25,7 @@ def ask_question(questions, score, quiz):
         elif quiz == "Maori Days":
             new_option = MAORI_DAYS[random.randint(0, len(MAORI_DAYS) - 1)][1]
         # if this is not in the list then append it to options
-        if new_option not in options:
+        if new_option not in options: # noqa
             options.append(new_option)
     # shuffle the options
     random.shuffle(options)
