@@ -1,14 +1,12 @@
 """ Written by Joseph Surrey 08/05/2023
-Updated 18/05/2023 to add a method of seeing what quiz the user played
 """
-import copy
 import random
 from get_valid_input import get_valid_input
 from check_answer import check_answer
 from questions import *
 
 
-def ask_question(questions, score, quiz):
+def ask_question(questions, score):
     # select a random question from the questions variable
     question, answer = random.choice(questions)
     # remove that question from the questions pool
@@ -17,13 +15,8 @@ def ask_question(questions, score, quiz):
     options = [answer]
     # run loop to add random options until options has 4 variables inside it
     while len(options) != 4:
-        # select a random answer that isn't the correct one from the questions that are in the quiz the user is taking
-        if quiz == "Maori Numbers":
-            new_option = MAORI_NUMBERS[random.randint(0, len(MAORI_NUMBERS) - 1)][1]
-        elif quiz == "Maori Months":
-            new_option = MAORI_MONTHS[random.randint(0, len(MAORI_MONTHS) - 1)][1]
-        elif quiz == "Maori Days":
-            new_option = MAORI_DAYS[random.randint(0, len(MAORI_DAYS) - 1)][1]
+        # select a random answer that isn't the correct one
+        new_option = OPTIONS[random.randint(0, len(OPTIONS) - 1)][1]
         # if this is not in the list then append it to options
         if new_option not in options:
             options.append(new_option)
@@ -39,4 +32,4 @@ def ask_question(questions, score, quiz):
     # set the value of user_answer to the answer that the user chose
     user_answer = options[user_input]
     # check answer
-    check_answer(questions, answer, user_answer, score, quiz)
+    check_answer(questions, answer, user_answer, score)
