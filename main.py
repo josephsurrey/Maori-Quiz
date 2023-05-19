@@ -1,4 +1,10 @@
 from welcome import welcome
+from setup import *
 
 
-welcome()
+def main():
+    print(TITLE_PREFIX, TITLE, TITLE_SUFFIX)
+    welcome()
+
+
+main()

@@ -4,9 +4,11 @@ Updated 18/05/2023 to add a method of seeing what quiz the user played
 from ask_question import ask_question
 from get_valid_input import get_valid_input
 from questions import *
+from setup import *
 
 
 def quiz_selection():
+    print(SECTION_SEPARATOR)
     # ask user what quiz they would like to do
     quiz = get_valid_input("Please select a quiz:\n"
                            "1) Maori numbers 1-10\n"

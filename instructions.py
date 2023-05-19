@@ -6,5 +6,8 @@ from quiz_selection import quiz_selection
 
 
 def instructions():
+    print(SECTION_SEPARATOR)
+    # print instructions
     print(INSTRUCTIONS.read())
+    # run quiz selection
     quiz_selection()

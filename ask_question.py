@@ -6,9 +6,11 @@ import random
 from get_valid_input import get_valid_input
 from check_answer import check_answer
 from questions import *
+from setup import *
 
 
 def ask_question(questions, score, quiz):
+    print(SECTION_SEPARATOR)
     # select a random question from the questions variable
     question, answer = random.choice(questions)
     # remove that question from the questions pool
