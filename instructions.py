@@ -6,5 +6,5 @@ from quiz_selection import quiz_selection
 
 
 def instructions():
-    print(INSTRUCTIONS)
+    print(INSTRUCTIONS.read())
     quiz_selection()
