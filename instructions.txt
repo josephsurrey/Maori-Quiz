@@ -1,44 +1,9 @@
-Instructions for Māori Quiz Game:
-
-Welcome to the Māori Quiz Game! This game will test your knowledge of Māori culture, language, and history.
-
 To begin, you will need to select one of three available quizzes. The quizzes are categorized into different topics. The available options are:
 
-Māori Numbers
-Māori Months
-Māori Days of the Week
-Once you have decided on a quiz, type the corresponding number (1, 2, or 3) on your keyboard and press Enter to confirm your selection.
+- Maori Numbers
+- Maori Months
+- Maori Days of the Week
 
-After selecting a quiz, the game will present you with a series of multiple-choice questions. Each question will have four possible answers labeled as options A, B, C, and D.
-
-To answer a question, type the letter corresponding to your chosen answer (a, b, c, or d) on your keyboard and press Enter to submit your response.
-
-The game will provide instant feedback on your answer. If you answer correctly, you will receive points and move on to the next question. If you answer incorrectly, the correct answer will be revealed before moving to the next question.
-
-You will continue answering questions until you have completed the entire quiz. At the end of the quiz, your total score will be displayed, along with an optional leaderboard to compare your performance with others.
-
-If you wish to play another quiz, you can start from step 2 and select a different quiz category.
-
-Enjoy playing the Māori Quiz Game and have fun while expanding your knowledge of Māori culture and language!
-
-Note: This game assumes basic familiarity with Māori culture, language, and history. If you are new to Māori knowledge, consider learning the basics before playing the game to enhance your experience.
-
-
-
-
-
-User
-remove the leaderboard
-ChatGPT
-Instructions for Māori Quiz Game:
-
-Welcome to the Māori Quiz Game! This game will test your knowledge of Māori culture, language, and history.
-
-To begin, you will need to select one of three available quizzes. The quizzes are categorized into different topics. The available options are:
-
-Māori Numbers
-Māori Months
-Māori Days of the Week
 Once you have decided on a quiz, type the corresponding number (1, 2, or 3) on your keyboard and press Enter to confirm your selection.
 
 After selecting a quiz, the game will present you with a series of multiple-choice questions. Each question will have four possible answers labeled as options A, B, C, and D.
@@ -49,8 +14,6 @@ The game will provide instant feedback on your answer. If you answer correctly, 
 
 You will continue answering questions until you have completed the entire quiz.
 
-If you wish to play another quiz, you can start from step 2 and select a different quiz category.
+Enjoy playing the Maori Quiz Game and have fun while expanding your knowledge of Maori culture and language!
 
-Enjoy playing the Māori Quiz Game and have fun while expanding your knowledge of Māori culture and language!
-
-Note: This game assumes basic familiarity with Māori culture, language, and history. If you are new to Māori knowledge, consider learning the basics before playing the game to enhance your experience.
+Note: This game assumes basic familiarity with Maori culture, language, and history. If you are new to Maori knowledge, consider learning the basics before playing the game to enhance your experience.
