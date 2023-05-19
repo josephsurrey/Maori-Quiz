@@ -4,16 +4,16 @@ To begin, you will need to select one of three available quizzes. The quizzes ar
 - Maori Months
 - Maori Days of the Week
 
-Once you have decided on a quiz, type the corresponding number (1, 2, or 3) on your keyboard and press Enter to confirm your selection.
+To start the quiz, enter the corresponding number (1, 2, or 3) and press Enter.
 
-After selecting a quiz, the game will present you with a series of multiple-choice questions. Each question will have four possible answers labeled as options A, B, C, and D.
+The quiz will present multiple-choice questions with options A, B, C, and D.
 
-To answer a question, type the letter corresponding to your chosen answer (a, b, c, or d) on your keyboard and press Enter to submit your response.
+To answer a question, type the letter (a, b, c, or d) and press Enter.
 
-The game will provide instant feedback on your answer. If you answer correctly, you will receive points and move on to the next question. If you answer incorrectly, the correct answer will be revealed before moving to the next question.
+Instant feedback will be provided. Correct answers earn points and proceed to the next question. Incorrect answers reveal the correct answer before moving on.
 
-You will continue answering questions until you have completed the entire quiz.
+Continue answering questions until you finish the entire quiz.
 
-Enjoy playing the Maori Quiz Game and have fun while expanding your knowledge of Maori culture and language!
+Enjoy the Maori Quiz Game and have fun while learning about Maori culture and language!
 
-Note: This game assumes basic familiarity with Maori culture, language, and history. If you are new to Maori knowledge, consider learning the basics before playing the game to enhance your experience.
+Note: Basic familiarity with Maori culture, language, and history is assumed. If you're new to Maori knowledge, consider learning the basics before playing for a better experience.
