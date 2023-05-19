@@ -9,8 +9,10 @@ from setup import *
 def provide_feedback(questions, result, answer, score, quiz):
     print(SECTION_SEPARATOR)
     if result == "correct":
+        # if user is correct, print correct
         print("Correct")
     else:
+        # else, print incorrect
         print(f"Incorrect, the answer was {answer}")
     # print users score
     print(f"Score: {score}")
