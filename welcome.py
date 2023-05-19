@@ -19,4 +19,3 @@ def welcome():
         quiz_selection()
     else:
         instructions()
-
